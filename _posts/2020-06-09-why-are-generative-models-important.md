@@ -24,7 +24,7 @@ One can use generative models to understand what concept has been learned by an 
 * if adding a tree in the image results in the sky changing color, then the model learned a spurious correlation. One can consider disentangled representations or augumenting the dataset with different combinations of trees and skies. 
 
 
-![GAN_dissection](https://i.imgur.com/NVW89oz.png)
+![](https://i.imgur.com/NVW89oz.png)
 *Fig 1. Images are used to show what class of concepts each neuron has learned. ([Bau et al, 2017](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bau_Network_Dissection_Quantifying_CVPR_2017_paper.pdf))*
 
 ![](https://gandissect.csail.mit.edu/img/demo_short3.gif) 
