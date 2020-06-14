@@ -5,6 +5,10 @@ published: true
 ---
 
 
+## An argument for compositionality
+
+![](https://docs.google.com/drawings/d/e/2PACX-1vRrWV8g6bMHjzgD5KOEGbn8Q1OlgsWqxxaTlY9sEWZOjIlCRnOnxWEr8m4SNdtkmU-F38rhgyFKiaTn/pub?w=890&h=931)
+
 
 ## Overall architecture
 
@@ -17,3 +21,4 @@ published: true
 
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vRiuO2qz2vW87XhITxdtdK3y7O0Rpcd-NB824D3-OxSAfDQvO7WiBgi8ISJ6RydO3YwqN2PyL3vZeHX/pub?w=1440&h=1080)
+
