@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why are generative models important?
+title: Why are generative models important and useful?
 published: true
 discussion_id: 01-why-generative
 ---
