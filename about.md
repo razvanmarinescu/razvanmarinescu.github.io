@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a postdoctoral researcher in [Polina Golland's lab](https://people.csail.mit.edu/polina/) at MIT, working on machine learning algorithms for healthcare applications. I currently develop generative models on Chest X-Rays and brain images, which can be used for data augmentation, visualisation, and as prior models for bayesian posterior optimisation.
 
-### More Information
+I also have a keen interest in general machine learning and computational intelligence, in order to make computers perform intelligent tasks. 
 
-A place to include any other types of information that you'd like to include about yourself.
+See [my website](https://people.csail.mit.edu/razvan/) for more information on my research. 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+raz\*an [at] csail.mit.edu (fill in \* with corresponding letter)
