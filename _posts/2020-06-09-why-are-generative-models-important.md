@@ -27,7 +27,7 @@ Communication with users is only useful for stimuli that we can easily percieve 
 
 ## Shared cooperation between ML system and experts
 
-Generative models can be used be experts as an assistive tool. In medicine, an ML system based on generative modelling can predict the future disease evolution, while the medical professional uses the prediction to recommend a treatment (Fig 2). This is in contrast to a purely end-to-end ML approach that would take the image as input and recommend the treatment directly as output. This hybrid approach might be neccessary instead of an end-to-end approach due to (i) inability of ML systems to properly solve all sub-tasks, (ii) regulatory approval for remaining components is not yet granted, (iii) data might not be available for those specific subtasks.
+Generative models can be used by experts as an assistive tool. In medicine, an ML system based on generative modelling can predict the future disease evolution, while the medical professional uses the prediction to recommend a treatment (Fig 2). This is in contrast to a purely end-to-end ML approach that would take the image as input and recommend the treatment directly as output. This hybrid approach might be neccessary instead of an end-to-end approach due to (i) inability of ML systems to properly solve all sub-tasks, (ii) regulatory approval for remaining components is not yet granted, (iii) data might not be available for those specific subtasks.
 
 <p align="center">
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vTv4LW7o9d8fQHydsc6ieF3kkKrwUZud1FSqbLKIqTJHZiGxrFbj_joIz_nLcnMjnVVtofVl1r1VxYS/pub?w=576&amp;h=362">
@@ -106,7 +106,7 @@ Some generative models based on invertible flow [(Dinh et al, 2016)](https://arx
 
 $$p(color\_img) = f_{\theta}(image)$$
 
-Now imagine we're interested to perform an image colorization task (Fig 9) by estimating *p(color\_img \| gray\_img)*, the distribution of all possible coloured images from a given grayscale image. We apply Baye's rule as follows:
+Now imagine we're interested to perform an image colorization task (Fig 9) by estimating *p(color\_img \| gray\_img)*, the distribution of all possible coloured images from a given grayscale image. We apply Bayes' rule as follows:
 
 $$p(color\_img|gray\_img) = p(gray\_img|color\_img) p(color\_img)$$
 
