@@ -116,7 +116,7 @@ The first term, called the likelihood term, expresses the forward model and is v
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vSQplzFGsc1VI2-TlFqqlRJaQHO2VwO1bcJ9PTU3gkIcrDG0A0ihYMHmjF-mmlL_tGjaBEcnJx1NdZQ/pub?w=1653&h=1043" width="100%"> 
 </p>
 
-*Fig 9. A single grayscale image can have multiple colorizations -- all 9 colorizations correspond exactly to the grayscale image -- but only a subset of these colorizations are realistic (6 images to the left). This might be because, in the wild, the bird never appears with brown or green neck, or with blue forehead (3 images to the right). The generative model trained on a dataset of birds can be used to estimate the prior term $p(color$_$img)$, which constraints the model to only plausible color combinations. Image adapted from [Ardizonne et al, 2019](https://arxiv.org/pdf/1907.02392.pdf)*
+*Fig 9. A single grayscale image can have multiple colorizations -- all 9 colorizations correspond exactly to the grayscale image -- but only a subset of these colorizations are realistic (6 images to the left). This might be because, in the wild, the bird never appears with brown or green neck, or with blue forehead (3 images to the right). The generative model trained on a dataset of birds can be used to estimate the prior term $p(color$_$img)$, which constrains the model to only plausible color combinations. Image adapted from [Ardizonne et al, 2019](https://arxiv.org/pdf/1907.02392.pdf)*
 
 {% comment %}
 Apart from image colorization, bayesian posterior optimisation can be used also for other types of tasks: 
