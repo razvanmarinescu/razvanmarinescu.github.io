@@ -8,9 +8,9 @@ I am a postdoctoral researcher in [Polina Golland's lab](https://people.csail.mi
 
 I also have a keen interest in general machine learning and computational intelligence, in order to make computers perform intelligent tasks. 
 
-See [my website](https://people.csail.mit.edu/razvan/) for more information on my research. 
+See [my website](https://razvanmarinescu.com) for more information on my research. 
 
 
-### Contact me
+### Contact
 
-raz\*an [at] csail.mit.edu (fill in \* with corresponding letter)
+ramarine [at] ucsc.edu
